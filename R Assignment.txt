@@ -1,0 +1,15 @@
+### R Assignment ###
+*********************
+1) Read the file related house prices
+2) find out mean, median of all continuous variables
+3) find out quantile information
+4) find out frequency of all categorical variables
+5) plot the following graphs
+- scatter plot for continuous variables
+- histogram for continuous variables
+- bar chart for categorical variables
+- pie chart for categorical variables
+6) find out if there are any missing variables
+7) replace(impute) the missing variables 
+8) create a subset of dataset with only continous varaibles and first 50% rows of data
+9) create a function to identify the number of observations with value '0' for each continuous variable

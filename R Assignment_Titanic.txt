@@ -1,0 +1,18 @@
+Titanic
+1) how many missing values present?
+2) what are the columns which are missing values
+3) Frequency of all descrete/categorical variables
+4) mean, median of continuos variables
+5) replace the missing values
+   - cont: mean
+   - descrete: high freq
+6) what is the average price gender wise
+7) convert columng 'age' as descrete based on the following groups
+   - <20 : A
+   - 20-45 : B
+   - 45-60 : C
+   - >60 : D
+8) how many people survived based on PCLASS
+9) find second maximum fare under each age group
+10) how many servived out of with cabin and without cabin
+
